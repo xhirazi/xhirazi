@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xhirazi
+- 👋 Hi, I’m Sherazi
 - 👀 I love to work on new tech.
-- 🌱 I’m currently working on React Native Applications
-- 💞️ I’m looking to collaborate on React Native Applications
+- 🌱 I’m currently working on React Native/Flutter Applications
+- 💞️ I’m looking to collaborate on React Native/Flutter Applications
 - 📫 Reach me on: 
   - Skype: newalishah@gmail.com
   - Mobile/Whatsapp: +923334445257
